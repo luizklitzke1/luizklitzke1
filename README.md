@@ -21,5 +21,5 @@
 <br>
 
 ## &#x1f4c8; GitHub Stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizklitzke1&show_icons=true&line_height=27&count_private=true" alt="luizklitzke1's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizklitzke1&show_icons=true&line_height=27&count_private=true&title_color=daa520&text_color=c9cacc&icon_color=daa520&bg_color=1d1f21" alt="luizklitzke1's GitHub Stats" />
 
