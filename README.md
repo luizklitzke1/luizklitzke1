@@ -2,6 +2,7 @@
 
 
 ### Languages and tools:
+<br>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -17,8 +18,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br><br><br><br>
+<br>
 
 ## &#x1f4c8; GitHub Stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizklitzke1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="luizklitzke1's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizklitzke1&show_icons=true&line_height=27&count_private=true" alt="luizklitzke1's GitHub Stats" />
 
