@@ -1,6 +1,6 @@
 ### 🤠 Howdy partner!<br>
 <p>My name is Luiz Gustavo Klitzke.</p>
-<p>I am a Computer Science student and primarily back-end developer, based on Brazil.</p>
+<p>I am a Computer Science major and back-end developer, based on Brazil.</p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo-klitzke/)
 
